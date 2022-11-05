@@ -3,7 +3,7 @@ Introductory Git Tutorial
 This was made as an exercise for the basic functionality of git.
 
 Compile:
-        `make HelloWorld` or simply just `make`
+        make HelloWorld or simply just make
 
 Clean up Binaries:
-        `make clean`
+        make clean
